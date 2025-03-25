@@ -1,2 +1,1 @@
-# Websig
-WebSig com Postgresql
+Aplicação web que utiliza a biblioteca Leaflet para visualização de mapas interativos, integrando dados vetoriais (pontos, linhas e polígonos) provenientes de um banco de dados PostgreSQL com extensão PostGIS. A interface permite a visualização de diferentes camadas geográficas de forma dinâmica e responsiva.
